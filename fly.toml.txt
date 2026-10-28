@@ -1,0 +1,7 @@
+app = "JoinCounter"
+primary_region = "fra" # lub inny region, np. waw
+
+[build]
+
+[processes]
+  app = "python bot.py" # Zmień "main.py" na nazwę swojego pliku z botem
